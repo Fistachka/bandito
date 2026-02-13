@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>bandito</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="bandito"/>
   <readme>
     <ru>094240d35cc4ba2f010ac20b92e183b1d1884e74849afe0fe348e0967cf83479</ru>
@@ -12,7 +12,7 @@
   <exercise number="1">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="1t.mp4" size="1807485" type="video/mp4" volume="0.5">26eaed3862f8e440649c7dfa651e91708a3b9962ae674a7cf2ab1f2ba50c2c61</video>
@@ -30,7 +30,7 @@
   <exercise number="2">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="2t.mp4" size="1418129" type="video/mp4" volume="0.5">f380bbcc7517895a80faf95ade5188ea7437bb031ce3d665a685610864041558</video>
@@ -50,7 +50,7 @@
   <exercise number="3">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="3.mp4" size="2247072" type="video/mp4" volume="0.5">03985cc5c96cbc079c9836aa40758ae54b31df805e15865556ca1cb599003096</video>
@@ -68,7 +68,7 @@
   <exercise number="4">
     <scale>chromaticminor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="4t.mp4" size="1079393" type="video/mp4" volume="0.5">99642722e0a21d7307b155fb82becec95f35d814928239b8cb61223f20fde6ed</video>
@@ -88,7 +88,7 @@
   <exercise number="5">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="5.mp4" size="1935620" type="video/mp4" volume="0.5">93d7e18a741c89931febaeae8226e4eb7c4142dd82cde4de074e6e27eb6376d3</video>
@@ -106,7 +106,7 @@
   <exercise number="6">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="6t.mp4" size="1540826" type="video/mp4" volume="0.5">bb6bcfc933a407b4a2576fe43ad9ed580785e23dd319ebb1469a5a6f3a034f45</video>
@@ -126,7 +126,7 @@
   <exercise number="7">
     <scale>chromaticminor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
     <video name="7.mp4" size="2047129" type="video/mp4" volume="0.5">fa8586db254acb9d256f0b55bbe45a603fa750949c533c05e79df7b3c74103d9</video>
@@ -144,7 +144,7 @@
   <exercise number="8">
     <scale>chromaticminor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>100</bpm>
+    <bpm>131</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
     <video name="8.mp4" size="2017016" type="video/mp4" volume="0.5">0958388ace0f88572d791a3761ced8676043896743896a4b3b3c5ca74733263d</video>
