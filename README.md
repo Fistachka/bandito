@@ -1,49 +1,34 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"Лесной олень"  Аида Ведищева 1971г. 4 часть
-![8](https://github.com/user-attachments/assets/c860cd51-a376-4064-814a-2ecb0995d15e)
+"Мы бандито" м/ф "Приключения капитана Врунгеля" 1979г. 1 часть
+![3](https://github.com/user-attachments/assets/1d348981-0c35-4432-80aa-a57bd869c85a)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/1206AwSzV7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzyCIM9U_Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Со мной лесной олень,
-По моему хотенью.
-И мчит меня олень,
-В свою страну оленью.
-Где сосны рвутся в небо,
-Где быль живёт и небыль,
-Он мчит меня туда лесной олень!
-Он мчит меня туда лесной олень!
-Он мчит меня туда лесной олень!
+Мы бандито, гангстерито, мы кастето-пистолето, о йес,
+Мы стрелянто, убиванто, украданто то и это, о йес,
+Банко-тресто президенто ограблянто ун моменто, о йес,
+И за это режисенто нас сниманто в киноленто, о йес!
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/c8e4511d-3f08-4d0c-b147-9c137570d7fa =200x200)
-stolbitsa.com/fistachka/olen3<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/2cbbb374-62a1-4ac3-b0f1-13065557ac7f =200x200)
+stolbitsa.com/fistachka/olen4<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 "The Magic Deer" (song) by Aida Vedishcheva. 4 st verse
-![8](https://github.com/user-attachments/assets/c860cd51-a376-4064-814a-2ecb0995d15e)
+![3](https://github.com/user-attachments/assets/1d348981-0c35-4432-80aa-a57bd869c85a)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/bQVPJYUNZM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-GQ_ENCXogw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-So mnoj lesnoj olen',
-Po moemu hoten'yu.
-I mchit menya olen',
-V svoyu stranu olen'yu.
-Gde sosny rvutsya v nebo,
-Gde byl' zhivyot i nebyl',
-On mchit menya tuda lesnoj olen'!
-On mchit menya tuda lesnoj olen'!
-On mchit menya tuda lesnoj olen'!
+My bandito, gangsterito, my kasteto-pistoleto, o jes,
+My strelyanto, ubivanto, ukradanto to i eto, o jes,
+Banko-tresto prezidento ograblyanto un momento, o jes,
+I za eto rezhisento nas snimanto v kinolento, o jes!
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/c8e4511d-3f08-4d0c-b147-9c137570d7fa =200x200)
-stolbitsa.com/fistachka/olen3<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/2cbbb374-62a1-4ac3-b0f1-13065557ac7f =200x200)
+stolbitsa.com/fistachka/olen4<br><br>
 
-
-
-
-![3](https://github.com/user-attachments/assets/1d348981-0c35-4432-80aa-a57bd869c85a)
-![4](https://github.com/user-attachments/assets/aacc58da-3562-456d-bf4c-3e7acab111d7)
