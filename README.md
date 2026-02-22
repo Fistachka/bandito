@@ -17,7 +17,7 @@ stolbitsa.com/fistachka/olen4<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"The Magic Deer" (song) by Aida Vedishcheva. 4 st verse
+"We are bandito" (from the animated film The Adventures of Captain Vrungel) 1 st verse
 ![3](https://github.com/user-attachments/assets/1d348981-0c35-4432-80aa-a57bd869c85a)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/bQVPJYUNZM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
