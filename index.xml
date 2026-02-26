@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>bandito</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="Fistachka" repo="bandito"/>
   <readme>
-    <ru>094240d35cc4ba2f010ac20b92e183b1d1884e74849afe0fe348e0967cf83479</ru>
-    <en>d9ddcfcd7a2604d852c92bfab43a2481beb89c31e76c5b8bfedb6d7e3f6ba94a</en>
+    <ru>e90101a41f8c56de0a17035c6fbb7f6d14a6b026fe50b5a3f8b8592e324c643d</ru>
+    <en>e5fea0a20e0aba897a8f20ce21f0c01a123be55cda89d84c9f5611d81d88cb2d</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
