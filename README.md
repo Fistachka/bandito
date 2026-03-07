@@ -9,7 +9,7 @@
 Мы бандито, гангстерито, мы кастето-пистолето, о йес,
 Мы стрелянто, убиванто, украданто то и это, о йес,
 Банко-тресто президенто ограблянто ун моменто, о йес,
-И за это режисенто нас сниманто в киноленто, о йес!
+И за это режисенто нас сниманто в киноленто!
 
 Предыдущий урок:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/2cbbb374-62a1-4ac3-b0f1-13065557ac7f =200x200)
@@ -26,7 +26,7 @@ stolbitsa.com/fistachka/olen4<br><br>
 My bandito, gangsterito, my kasteto-pistoleto, o jes,
 My strelyanto, ubivanto, ukradanto to i eto, o jes,
 Banko-tresto prezidento ograblyanto un momento, o jes,
-I za eto rezhisento nas snimanto v kinolento, o jes!
+I za eto rezhisento nas snimanto v kinolento!
 
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/2cbbb374-62a1-4ac3-b0f1-13065557ac7f =200x200)
