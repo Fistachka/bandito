@@ -4,7 +4,7 @@
 ![3](https://github.com/user-attachments/assets/1d348981-0c35-4432-80aa-a57bd869c85a)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/TdaAE066pyc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzyCIM9U_Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Мы бандито, гангстерито, мы кастето-пистолето, о йес,
 Мы стрелянто, убиванто, украданто то и это, о йес,
@@ -21,7 +21,7 @@ stolbitsa.com/fistachka/olen4<br><br>
 ![3](https://github.com/user-attachments/assets/1d348981-0c35-4432-80aa-a57bd869c85a)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/yI3mXuuBPa0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-GQ_ENCXogw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 My bandito, gangsterito, my kasteto-pistoleto, o jes,
 My strelyanto, ubivanto, ukradanto to i eto, o jes,
